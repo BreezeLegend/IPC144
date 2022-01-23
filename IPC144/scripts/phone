@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -i $1 cheryl ~uli101/2018c/phonebook

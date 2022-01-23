@@ -1,0 +1,12 @@
+// Victor Hasnat 
+// IPC144 NPP
+
+1. The benefits of using arrays are that it is a much more convenient and efficient way of containing data of the same data types, it also allows us to store a known number of elements in it. It can also be used to store different
+data structures.
+
+2. A reason why parallel arrays are beneficial is that they are simple and easy to understand, also its allows its user
+to contain information in one long array instead of creating a new array for every new piece of information. Some downfalls
+of parallel arrays are that there is a higher chance for the user to create a mistake as any changes can change the entire array.
+
+3. It is as your job as a C programmer to make sure you initialized because that piece of memory could go anywhere
+and is unpredictable and could lead to memory leaks into other code projects you have.

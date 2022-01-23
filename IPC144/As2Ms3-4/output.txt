@@ -1,0 +1,69 @@
+Script started on Thu 09 Apr 2020 02:23:39 AM EDT
+
+------------------------------------------
+Testing: Final A#2-Milestone #4 (Sort)
+------------------------------------------
+Contact Management System
+-------------------------
+1. Display contacts
+2. Add a contact
+3. Update a contact
+4. Delete a contact
+5. Search contacts by cell phone number
+6. Sort contacts by cell phone number
+0. Exit
+
+Select an option:> 4
+
+
+Enter the cell number for the contact: 4161112222
+
+Contact found:
+ Rick Grimes
+    C: 4161112222   H: 4162223333   B: 4163334444
+       11 Trailer Park, King City, A7A 2J2
+
+CONFIRM: Delete this contact? (y or n): n
+(Press Enter to Continue)
+
+Contact Management System
+-------------------------
+1. Display contacts
+2. Add a contact
+3. Update a contact
+4. Delete a contact
+5. Search contacts by cell phone number
+6. Sort contacts by cell phone number
+0. Exit
+
+Select an option:> 4
+
+
+Enter the cell number for the contact: 4161112222
+
+Contact found:
+ Rick Grimes
+    C: 4161112222   H: 4162223333   B: 4163334444
+       11 Trailer Park, King City, A7A 2J2
+
+CONFIRM: Delete this contact? (y or n): n
+(Press Enter to Continue)
+
+Contact Management System
+-------------------------
+1. Display contacts
+2. Add a contact
+3. Update a contact
+4. Delete a contact
+5. Search contacts by cell phone number
+6. Sort contacts by cell phone number
+0. Exit
+
+Select an option:> 0
+
+
+Exit the program? (Y)es/(N)o: y
+
+Contact Management System: terminated
+
+Script done on Thu 09 Apr 2020 02:24:21 AM EDT

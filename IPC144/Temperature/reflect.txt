@@ -1,0 +1,11 @@
+// Name:Victor Hasnat
+// Student Number:119485183
+// Email:vhasnat@myseneca.ca
+// Section:NLL
+// Workshop:3 
+
+I did not use psuedo-coding before coding I just figured out as I went and added comments where I needed to so I knew 
+what everything did in-case, it was also if I showed someone they would understand what everything did. I used a do while 
+loop because it was the easiest one that I could write. The way I tested my solution was add on little things into the lab
+code and check if there were no errors, I debugged my code by building my code and checking what the errors were at the bottom 
+of the prompt.

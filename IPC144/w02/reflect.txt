@@ -1,0 +1,1 @@
+In this workshop I learned how to properly use the command scanf and its coresponding code

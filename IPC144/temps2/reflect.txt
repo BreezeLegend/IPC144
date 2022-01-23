@@ -1,0 +1,7 @@
+The reason why we use arrays is to make a collection of numbers be easier to access the
+alternative way you could of wrote this program is using SIZE.
+An advantage of using parralel arrays is that your code looks more organized and it needs
+less space to write the code. 
+The reason why loops use zero as an iteration is because they are looping thorough an
+array and because an array always starts at zero.
+	

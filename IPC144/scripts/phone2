@@ -1,0 +1,3 @@
+echo -n "Enter a name to search for: "
+read name
+grep -i $name cheryl ~uli101/2018c/phonebook

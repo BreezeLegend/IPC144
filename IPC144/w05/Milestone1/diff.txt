@@ -1,0 +1,10 @@
+
+In line number 26 of your output:
+The output should be:
+Middle initial(s): L. A.
+But your output is: 
+Middle initial(s): L.
+                     ^
+---------------------|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(d), dec(13)

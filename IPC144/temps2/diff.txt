@@ -1,0 +1,14 @@
+In line number 3 of your output:
+The output should be:
+Please enter the number of days, between 3 and 10, inclusive: 2
+                                                              ^
+But your output is: 
+Please enter the number of days, between 3 and 10, inclusive: 6
+                                                              ^
+
+Unmatched character details:
+The character in column 63 is supposed to be:
+  [2] ASCII code(50)
+but you printed
+  [6] ASCII code(54)
+

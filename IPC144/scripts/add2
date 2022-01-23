@@ -1,0 +1,15 @@
+#!/bin/bash
+sum=0
+for add in $@
+do
+echo $add | grep "[^0-9+-]" > /dev/null
+if [ $? -eq 0 ]
+then
+echo "Sorry, '$add' is not a number"
+exit 1
+else
+sum=$((sum + add))
+fi
+done
+echo $sum
+exit 0

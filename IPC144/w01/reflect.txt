@@ -1,0 +1,1 @@
+This lab taught me how to properly use the command Printf and how to properly begin coding.

@@ -1,0 +1,8 @@
+// Victor Hasnat 
+// IPC144 NLL
+
+The first reason why an array of structs is better than a parallel arrays is that parallel arrays are harder to organize
+because every time you add an additional field you will have to add another array, as if you want to pass the entity as a whole to another 
+function you will have to pull out all the items. Another advantage of array of structs is that of its runtime because having all common data
+together will be much more efficient use of the CPU's memory, and DRAM memory. In the end arrays of struct runs faster in most use cases 
+compared to parallel arrays.

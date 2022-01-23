@@ -1,0 +1,18 @@
+/* -------------------------------------------
+Name: Victor H	
+Student number: 119485183
+Email: vhasnat@myseneca.ca		
+Section: NLL
+Date: March 24,2020
+----------------------------------------------
+Assignment: 2
+Milestone:  2
+---------------------------------------------- */
+
+1. A function is a body of statements that all perform a task. Basically every C program has at minimum one function,
+it is most likely main() among other types of functions. The point of them is to divide your code into different functions
+to perform different tasks or to just better organize your code.
+
+2. I believe the reason why we put the helper function seperate from the contacts module is to makes things more organized
+
+3. One thing I learned in this program is how to use the helper function in my code.

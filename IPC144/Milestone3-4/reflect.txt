@@ -1,0 +1,16 @@
+/* -------------------------------------------
+Name: Victor Hasnat
+Student number: 119485183
+Email: vhasnat@myseneca.ca
+Section: NLL
+Date: March 13, 2020
+
+----------------------------------------------
+Assignment: 1
+Milestone:  4
+---------------------------------------------- */
+
+
+1. I believe that one reason why the assignment asked to code a struct that hold three other structs as data members 
+is because it keeps all relevant data in a single struct.
+2.I believe that it is poor design to use a pointer in that instance is because it causes memory leaks.

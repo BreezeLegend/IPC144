@@ -1,0 +1,14 @@
+In line number 10 of your output:
+The output should be:
+Do you want to enter an apartment number? (y or n): y
+^
+But your output is: 
+
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [D] ASCII code(68)
+but you printed
+  [Empty Line] ASCII code(0)
+
